@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ![alt text](https://github.com/alarcon-osorio/alarcon-osorio/blob/master/ImgProfile/profileGitHub.jpg?raw=true)
 
