@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/alarcon-osorio/alarcon-osorio/blob/master/ImgProfile/profileGitHub.jpg?raw=true
+![alt text](https://github.com/alarcon-osorio/alarcon-osorio/blob/master/ImgProfile/profileGitHub.jpg?raw=true)
 
 <!--
 **alarcon-osorio/alarcon-osorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
