@@ -9,7 +9,7 @@
 My projects:
 
 - 👨🏻‍💻 Java EE - Spring Framework & Angular
-- 🤓 Learning Python
+- 🤓 Learning Python - Android
 - 💬 Ask me about: JAVA, Spring Framework & Microservices
 - 😎 Pronouns: alarcon-osorio
 - ⚡ Projects in HTML, PHP, C, JAVA
